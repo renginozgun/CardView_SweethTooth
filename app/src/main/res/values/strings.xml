@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sweeth Tooth</string>
+    <string name="content_1_title"> Brownie Recipe</string>
+    <string name="content_1_body"> First, mix together the dry and wet ingredients in two separate bowls. Combine the sugar, flour, powdered sugar, cocoa powder, chocolate chips, and salt in a medium bowl. Then, whisk together the eggs, olive oil, and water in a large one.Next, combine the wet and dry ingredients. Sprinkle the dry mixture over the wet one, and fold until just combined. The batter will be thick!</string>
+    <string name="content_1_ingredients"> Ingredients:             2 eggs + water ,                                      Powdered sugar,        Unsweetened cocoa powder,             Oil</string>
+    <string name="content_2_title"> Chocolate Chip Cookie Recipe</string>
+    <string name="content_2_body"> Preheat oven to 375 degrees F. Line a baking pan with parchment paper and set aside. In a separate bowl mix flour, baking soda, salt, baking powder. Set aside. Cream together butter and sugars until combined. Beat in eggs and vanilla until fluffy. Mix in the dry ingredients until combined. Add 12 oz package of chocolate chips and mix well.</string>
+    <string name="content_2_ingredients">Ingredients: 1 cup salted butter* softened. 1 cup white (granulated) sugar. 1 cup light brown sugar packed. 2 tsp pure vanilla extract.</string>
+    <string name="content_3_titles"> Creme Brulee Recipe</string>
+    <string name="content_3_body"> Heat the heavy cream, espresso powder, and salt together in a medium saucepan over medium heat. As soon as it begins to simmer, remove from heat. Stir in the vanilla extract. Remove about 1/2 cup of warm heavy cream and, in a slow and steady stream, whisk into the egg yolks. Keep those egg yolks moving so they don’t scramble. In a slow and steady stream, pour and whisk the egg yolk mixture into the warm heavy cream.</string>
+    <string name="content_3_ingredients"> Ingredients: 5 large egg yolks 3/4 cup (150g) granulated sugar, divided 3 cups (720ml) heavy cream or heavy whipping cream* </string>
+    <string name="g" />
+    <string name="todo">TODO</string>
+</resources>
